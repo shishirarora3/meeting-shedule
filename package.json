@@ -1,0 +1,25 @@
+{
+  "name": "react-suggestion-box",
+  "version": "1.0.0",
+  "description": "React App displaying form with suggestion box.",
+  "main": "index.js",
+  "author": "Shishir Arora <shishirarora3@gmail.com>",
+  "dependencies": {
+    "webpack": "^1.12.9"
+  },
+  "devDependencies": {
+    "babel-core": "^6.3.13",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.3.13",
+    "npm": "^3.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shishirarora3/react-server-rendering-routing.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shishirarora3/react-server-rendering-routing/issues"
+  },
+  "homepage": "https://github.com/shishirarora3/react-server-rendering-routing#readme"
+}
